@@ -19,7 +19,7 @@ Questions they hope to answer with the data
 
 - We are going to use the following to measure each hospital performance:
 
-- expenditures
-- unique patient data
-- patient experience
-- employee satisfaction
+-- expenditures
+-- unique patient data
+-- patient experience
+-- employee satisfaction
