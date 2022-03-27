@@ -17,4 +17,9 @@ Questions they hope to answer with the data
 
 - We are going to predict which VA hospitals are performing well and should remain open. 
 
-- We are going to use expenditures, unique patient data, and patient experience and employee satisfaction to measure the hospital performance.
+- We are going to use the following to measure each hospital performance:
+
+- expenditures
+- unique patient data
+- patient experience
+- employee satisfaction
