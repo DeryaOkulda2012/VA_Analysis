@@ -13,13 +13,13 @@ Additional information from the VA's SAIL and SI data sources will also be used 
 ## Questions We Hope To Answer
 Questions they hope to answer with the data
 
-- The fundamental question we will address: What are the general trends in expenditures in the next few years, particularly between now and 2024, and beyond to 2030?
+The fundamental question we will address: What are the general trends in expenditures in the next few years, particularly between now and 2024, and beyond to 2030?
 
-- Also, analyzing trends beyond 2030 can be reviewed. Data can be broken down to state and county level.
+Also, analyzing trends beyond 2030 can be reviewed. Data can be broken down to state and county level.
 
-- We are going to predict which VA hospitals are performing well and should remain open.
+We are going to predict which VA hospitals are performing well and should remain open.
 
-- We are going to use the following to measure each hospital performance:
+We are going to use the following to measure each hospital performance:
 
 * expenditures
 * unique patient data
