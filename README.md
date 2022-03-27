@@ -8,18 +8,20 @@ We selected this topic because the Veteran population and VA benefits are always
 ## Data Source
 The source data is the National Center for Veterans Analysis and Statistics. Specifically, we will be using Geographic Distribution of the Department of Veterans Affairs Expenditures (GDX) Reports. This information is published by the Department of Veterans Affairs' Office of Policy and Planning at the end of each Fiscal Year.
 
+Additional information from the VA's SAIL and SI data sources will also be used for patient experience and employee satisfaction.
+
 ## Questions We Hope To Answer
 Questions they hope to answer with the data
 
 - The fundamental question we will address: What are the general trends in expenditures in the next few years, particularly between now and 2024, and beyond to 2030?
 
-- Also, analyzing trends beyon 2030 can be reviewed. Data can be broken down to state and county level.
+- Also, analyzing trends beyond 2030 can be reviewed. Data can be broken down to state and county level.
 
-- We are going to predict which VA hospitals are performing well and should remain open. 
+- We are going to predict which VA hospitals are performing well and should remain open.
 
 - We are going to use the following to measure each hospital performance:
 
--- expenditures
--- unique patient data
--- patient experience
--- employee satisfaction
+* expenditures
+* unique patient data
+* patient experience
+* employee satisfaction
