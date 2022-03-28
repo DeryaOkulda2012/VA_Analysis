@@ -15,3 +15,4 @@ CREATE TABLE Expenditures (
 );
 
 select * from expenditures;
+select * from hospitals;
