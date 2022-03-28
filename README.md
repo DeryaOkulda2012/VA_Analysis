@@ -25,3 +25,25 @@ We are going to use the following to measure each hospital performance:
 * unique patient data
 * patient experience
 * employee satisfaction
+
+# Machine Learning Model 
+
+Each fiscal year the Department of Veterans Affairs’ Office of Policy and Planning publishes the annual Geographic Distribution of VA Expenditures (GDX) Report for the public and all stakeholders.  
+
+The GDX report provides the estimated dollar expenditures for major VA programs at the state, county, and Congressional District levels.  
+
+Expenditure data are grouped by the following categories:  Compensation and Pension; Education and Vocational Rehabilitation and Employment; Insurance and Indemnities; Construction and Related Costs; General Operating Expenses and Related Costs; Loan Guaranty; and Medical Expenditures.  
+
+*add explanation of SAIL data and what it includes. Each VA medical center is given an Efficiency score 0-100. We will use Linear regression to predict the efficiency score (0-100) of a VA medical center based on factors such as expenditures, unique patient data, patient experience, and employee satisfaction. The GDX Report also includes Veteran population estimates at the state, county and Congressional District level and the number of unique patients who used VA health care services.
+
+### Which model did you choose and why?
+- Linear regression 
+- We want to predict the Efficiency score based on a number of factors including expenditures, unique patient data, patient experience, and employee satisfaction
+
+The basic pattern for supervised learning we plan to use in this linear regression problem:
+- Split the data into input (X) and output (y).
+  - Input = all other columns in final dataset
+  - Output = Efficiency
+- Create an instance of the model with model = LinearRegression().
+- Train the model with the dataset with model.fit(X,y).
+- Create predictions with y_pred = model.predict(X).
