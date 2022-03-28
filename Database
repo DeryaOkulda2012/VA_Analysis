@@ -1,0 +1,19 @@
+-- Creating tables for VA_Analysis Database
+CREATE TABLE Hospitals (
+     Hospital_Name VARCHAR(150) NOT NULL,
+	 City VARCHAR (50) NOT NULL,
+	 States VARCHAR (50) NOT NULL,
+     Hospital_County VARCHAR(40) NOT NULL,
+     PRIMARY KEY (Hospital_Name),
+     UNIQUE (Hospital_County)
+);
+
+CREATE TABLE Expenditures (
+     Expenditures INT NOT NULL,
+     Medical_Expenditures VARCHAR(40) NOT NULL,
+	 Unique_Patients INT NOT NULL,
+     PRIMARY KEY (Expenditures),
+     UNIQUE (Unique_Patients)
+);
+
+select * from expenditures;
