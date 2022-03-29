@@ -20,11 +20,17 @@ Also, analyzing trends beyond 2030 can be reviewed. Data can be broken down to s
 We are going to predict which VA hospitals are performing well and should remain open.
 
 We are going to use the following to measure each hospital performance:
-
 * expenditures
 * unique patient data
 * patient experience
 * employee satisfaction
+
+We have data from the following years and we will use it as basis for our model:
+- 2020
+- 2019
+- 2018
+- 2017
+- 2016
 
 # Machine Learning Model 
 
