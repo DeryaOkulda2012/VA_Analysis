@@ -1,0 +1,40 @@
+CREATE TABLE Expenditures (
+	 State_Name VARCHAR (40),
+     Medical_Expenditures INT,
+	 Unique_Patients INT,
+	 FY INT,
+     PRIMARY KEY (Medical_Expenditures),
+     UNIQUE (Unique_Patients)
+);
+
+select * from expenditures;
+
+CREATE TABLE Hospitals (
+	 Hospital_Name VARCHAR (200),
+     City_name VARCHAR (100),
+	 State_Name VARCHAR (40),
+	 Hospital_County VARCHAR (40),
+     PRIMARY KEY (Hospital_County),
+     UNIQUE (Hospital_Name)
+);
+
+select * from hospitals;
+
+CREATE TABLE Quality (
+	 City VARCHAR (50),
+	 YR_Q VARCHAR (40),
+	 BPTW INT,
+	 OJS INT,
+	 SWO INT,
+	 RMOAAGPTW INT,
+	 IPM INT,
+	 OPM INT,
+	 NPCACW30DFPD INT,
+	 NSCACW30DFPD INT,
+	 NMHACW30DFPD INT,
+	 EFF INT,
+     PRIMARY KEY (City),
+     UNIQUE (EFF)
+);
+
+select * from Quality;
