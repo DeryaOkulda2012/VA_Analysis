@@ -1,0 +1,64 @@
+CREATE TABLE Hospitals (
+	 Hospital_Name VARCHAR (200),
+     City VARCHAR (100),
+	 State_Name VARCHAR (40),
+	 Hospital_County VARCHAR (40),
+     PRIMARY KEY (Hospital_County),
+     UNIQUE (Hospital_Name)
+);
+
+CREATE TABLE Expenditures (
+	 State_Name VARCHAR (40),
+     Medical_Expenditures INT,
+	 Unique_Patients INT,
+	 FY INT,
+     PRIMARY KEY (Medical_Expenditures),
+     UNIQUE (Unique_Patients)
+);
+
+
+select * from hospitals;
+select * from quality;
+select * from expenditures;
+select * from city_state;
+
+--joining expenditures and hospitals to create new table for city_state
+
+select expenditures.state_name,
+	expenditures.medical_expenditures,
+	expenditures.unique_patients,
+	expenditures.fy,
+	hospitals.hospital_name,
+	hospitals.hospital_county,
+	hospitals.city
+INTO city_state
+		From expenditures
+		left join hospitals
+		on expenditures.state_name=hospitals.state_name;
+
+select * from city_state
+select * from hospitals;
+select * from quality;
+select * from expenditures;
+
+--joining city_state with quality
+select city_state.state_name,
+	city_state.medical_expenditures,
+	city_state.unique_patients,
+	city_state.fy,
+	city_State.city,
+	quality.city,
+	quality.yr_q,
+	quality.bptw,
+	quality.ojs,
+	quality.swo,
+	quality.rmoaagptw,
+	quality.ipm,
+	quality.opm,
+	quality.npcacw30dfpd,
+	quality.nscacw30dfpd,
+	quality.nmhacw30dfpd,
+	quality.eff	
+		From quality
+		left join city_state 
+		on quality.city=city_state.city;
