@@ -1,0 +1,32 @@
+CREATE TABLE Expenditures (
+	 State_Name VARCHAR (50),
+     Medical_Expenditures INT,
+	 Unique_Patients INT,
+	 FY INT,
+	 PRIMARY KEY (Medical_Expenditures),
+     UNIQUE (Unique_Patients)
+);
+
+
+create table if not exists public.quality
+(
+	state_name VARCHAR (50),
+	city VARCHAR (50),
+	county_name VARCHAR (50),
+	yr_q VARCHAR (50),
+	bptw decimal,
+	ojs decimal,
+	swo decimal,
+	rmoaagptw decimal,
+	ipm decimal,
+	opm decimal,
+	npcacw30dfpd decimal,
+	nscacw30dfpd decimal,
+	nmhacw30dfpd decimal,
+	eff decimal
+)
+
+select *
+FROM expenditures
+	right join quality
+		on expenditures.state_name=quality.state_name;
