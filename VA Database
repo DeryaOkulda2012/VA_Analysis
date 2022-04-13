@@ -1,0 +1,80 @@
+CREATE TABLE Expenditures (
+	 State_Name VARCHAR (50),
+     Medical_Expenditures INT,
+	 Unique_Patients INT,
+	 FY INT,
+	 PRIMARY KEY (Medical_Expenditures),
+     UNIQUE (Unique_Patients)
+);
+
+
+create table if not exists public.quality
+(
+	state_name VARCHAR (50),
+	city VARCHAR (50),
+	county_name VARCHAR (50),
+	yr_q VARCHAR (50),
+	bptw decimal,
+	ojs decimal,
+	swo decimal,
+	rmoaagptw decimal,
+	ipm decimal,
+	opm decimal,
+	npcacw30dfpd decimal,
+	nscacw30dfpd decimal,
+	nmhacw30dfpd decimal,
+	eff decimal
+)
+
+select quality.state_name,
+quality.city,
+quality.county_name,
+expenditures.medical_expenditures,
+expenditures.unique_patients,
+expenditures.fy,
+	quality.yr_q,
+	quality.bptw,
+	quality.ojs,
+	quality.swo,
+	quality.rmoaagptw,
+	quality.ipm,
+	quality.opm,
+	quality.npcacw30dfpd,
+	quality.nscacw30dfpd,
+	quality.nmhacw30dfpd,
+	quality.eff
+into va_database5
+FROM expenditures
+inner join quality
+on expenditures.state_name=quality.state_name;
+
+select va_database5.state_name,
+va_database5.city,
+va_database5.county_name,
+hospitals.hospital_name,
+va_database5.medical_expenditures,
+va_database5.unique_patients,
+va_database5.fy,
+	va_database5.yr_q,
+	va_database5.bptw,
+	va_database5.ojs,
+	va_database5.swo,
+	va_database5.rmoaagptw,
+	va_database5.ipm,
+	va_database5.opm,
+	va_database5.npcacw30dfpd,
+	va_database5.nscacw30dfpd,
+	va_database5.nmhacw30dfpd,
+	va_database5.eff
+into va_database7
+from hospitals 
+inner join va_database5
+on hospitals.hospital_county=va_database5.county_name;
+
+select * from va_database5
+
+select * from va_database7
+
+select * from quality
+
+select * from va_database2
