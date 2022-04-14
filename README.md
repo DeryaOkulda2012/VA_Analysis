@@ -104,7 +104,7 @@ Trained using 800 epochs
 
 # XGBRegressor
 
-![VA_Analysis/Images](XGB_MAE.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/XGB.jpg)
 
 
 # To summarize what we did :
