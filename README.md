@@ -98,7 +98,7 @@ Activation function - Relu
 
 ![VA_Analysis/Images/])
 
-![VA_Analysis/Images]((https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/DNN.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/DNN.jpg)
 
 Trained using 800 epochs
 
