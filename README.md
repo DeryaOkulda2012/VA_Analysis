@@ -60,7 +60,7 @@ We moved away from the linear model after examining our features and target
 ## Description of preliminary data preprocessing
 Examined the proportion of missing values in the dataset and got rid of any features with missing values
 
-![VA_Analysis/Images](missing_values.jpg) missing_values.jpg
+![VA_Analysis/Images](missing_values.jpg)
  
 Plotted the correlation between the features and the target
 
@@ -96,7 +96,7 @@ MAE (mean absolute error was used instead of accuracy)
 
 Activation function - Relu
 
-![VA_Analysis/Images/](DNN.jpg)
+![VA_Analysis/Images/](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/DNN.jpg)
 
 ![VA_Analysis/Images](DNN_MAE.jpg)
 
