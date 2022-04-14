@@ -69,7 +69,7 @@ Plotted the correlation between the features and the target
  
 Encoded the categorical features using onehotencoder. To understand and evaluate a categorical variable, preprocessed the values using a technique called one-hot encoding. One-hot encoding identifies all unique column values and splits the single categorical column into a series of columns, each containing information about a single unique categorical value.
 
-![VA_Analysis/Images](onehotencoder.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/onehotencoder.jpg)
 
  
 Standardized the data: The model will interpret the raw numerical data inappropriately, which will yield an inadequate model. To minimize this risk, we used standardizing (also commonly referred to as normalization) on the numerical data prior to training.
