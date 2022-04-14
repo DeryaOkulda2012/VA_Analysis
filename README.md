@@ -79,7 +79,7 @@ Standardized the data: The model will interpret the raw numerical data inappropr
  
 Split the preprocessed data into features and target arrays (based on a number of factors including domain knowledge, correlations), split the data into training and testing datasets (80/20)
 
-![VA_Analysis/Images](features.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/split.jpg)
 
  
  
