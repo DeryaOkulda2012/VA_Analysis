@@ -60,7 +60,7 @@ We moved away from the linear model after examining our features and target
 ## Description of preliminary data preprocessing
 Examined the proportion of missing values in the dataset and got rid of any features with missing values
 
-![/Images](missing_values.jpg)
+![VA_Analysis/Images](missing_values.jpg) missing_values.jpg
  
 Plotted the correlation between the features and the target
 
