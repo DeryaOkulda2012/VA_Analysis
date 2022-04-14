@@ -119,6 +119,6 @@ Trained using 800 epochs
 # Next Steps :
 - Try to put more effort on processing the dataset
 - Try to tweak the hyperparameters of the models that we used
-
+- try scaling efficiency score and test accuracy of models
 
 
