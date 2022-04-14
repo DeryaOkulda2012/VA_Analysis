@@ -89,16 +89,16 @@ Split the preprocessed data into features and target arrays (based on a number o
 
 MAE (mean absolute error was used instead of accuracy) 
 
-![VA_Analysis/Images](RFR.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/RFR.jpg)
 
 
 # Deep Neural Network
 
 Activation function - Relu
 
-![VA_Analysis/Images/](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/DNN.jpg)
+![VA_Analysis/Images/])
 
-![VA_Analysis/Images](DNN_MAE.jpg)
+![VA_Analysis/Images]((https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/DNN.jpg)
 
 Trained using 800 epochs
 
