@@ -64,7 +64,7 @@ Examined the proportion of missing values in the dataset and got rid of any feat
  
 Plotted the correlation between the features and the target
 
-![VA_Analysis/Images](correlation.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/Unknown.png)
 
  
 Encoded the categorical features using onehotencoder. To understand and evaluate a categorical variable, preprocessed the values using a technique called one-hot encoding. One-hot encoding identifies all unique column values and splits the single categorical column into a series of columns, each containing information about a single unique categorical value.
