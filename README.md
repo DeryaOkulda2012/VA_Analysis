@@ -96,7 +96,7 @@ MAE (mean absolute error was used instead of accuracy)
 
 Activation function - Relu
 
-![/Images](DNN.jpg)
+![VA_Analysis/Images/](DNN.jpg)
 
 ![VA_Analysis/Images](DNN_MAE.jpg)
 
