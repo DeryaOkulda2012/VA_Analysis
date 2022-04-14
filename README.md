@@ -74,7 +74,7 @@ Encoded the categorical features using onehotencoder. To understand and evaluate
  
 Standardized the data: The model will interpret the raw numerical data inappropriately, which will yield an inadequate model. To minimize this risk, we used standardizing (also commonly referred to as normalization) on the numerical data prior to training.
 
-![VA_Analysis/Images](standardizing.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/standardize.jpg)
 
  
 Split the preprocessed data into features and target arrays (based on a number of factors including domain knowledge, correlations), split the data into training and testing datasets (80/20)
