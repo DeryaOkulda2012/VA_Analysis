@@ -60,26 +60,26 @@ We moved away from the linear model after examining our features and target
 ## Description of preliminary data preprocessing
 Examined the proportion of missing values in the dataset and got rid of any features with missing values
 
-![VA_Analysis/Images](missing_values.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/missing_values.jpg)
  
 Plotted the correlation between the features and the target
 
-![VA_Analysis/Images](correlation.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/Unknown.png)
 
  
 Encoded the categorical features using onehotencoder. To understand and evaluate a categorical variable, preprocessed the values using a technique called one-hot encoding. One-hot encoding identifies all unique column values and splits the single categorical column into a series of columns, each containing information about a single unique categorical value.
 
-![VA_Analysis/Images](onehotencoder.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/onehotencoder.jpg)
 
  
 Standardized the data: The model will interpret the raw numerical data inappropriately, which will yield an inadequate model. To minimize this risk, we used standardizing (also commonly referred to as normalization) on the numerical data prior to training.
 
-![VA_Analysis/Images](standardizing.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/standardize.jpg)
 
  
 Split the preprocessed data into features and target arrays (based on a number of factors including domain knowledge, correlations), split the data into training and testing datasets (80/20)
 
-![VA_Analysis/Images](features.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/split.jpg)
 
  
  
@@ -89,22 +89,22 @@ Split the preprocessed data into features and target arrays (based on a number o
 
 MAE (mean absolute error was used instead of accuracy) 
 
-![VA_Analysis/Images](RFR.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/RFR.jpg)
 
 
 # Deep Neural Network
 
 Activation function - Relu
 
-![VA_Analysis/Images](DNN.jpg)
+![VA_Analysis/Images/](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/relu.jpg)
 
-![VA_Analysis/Images](DNN_MAE.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/DNN.jpg)
 
 Trained using 800 epochs
 
 # XGBRegressor
 
-![VA_Analysis/Images](XGB_MAE.jpg)
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/XGB.jpg)
 
 
 # To summarize what we did :
@@ -119,6 +119,6 @@ Trained using 800 epochs
 # Next Steps :
 - Try to put more effort on processing the dataset
 - Try to tweak the hyperparameters of the models that we used
-
+- try scaling efficiency score and test accuracy of models
 
 
