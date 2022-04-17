@@ -40,10 +40,10 @@ The GDX report provides the estimated dollar expenditures for major VA programs 
 
 Expenditure data are grouped by the following categories:  Compensation and Pension; Education and Vocational Rehabilitation and Employment; Insurance and Indemnities; Construction and Related Costs; General Operating Expenses and Related Costs; Loan Guaranty; and Medical Expenditures.  
 
-*add explanation of SAIL data and what it includes. Each VA medical center is given an Efficiency score 0-100. We will use Linear regression to predict the efficiency score (0-100) of a VA medical center based on factors such as expenditures, unique patient data, patient experience, and employee satisfaction. The GDX Report also includes Veteran population estimates at the state, county and Congressional District level and the number of unique patients who used VA health care services.
+Each VA medical center is given an Efficiency score 0-100. We will use Linear regression to predict the efficiency score (0-100) of a VA medical center based on factors such as expenditures, unique patient data, patient experience, and employee satisfaction. The GDX Report also includes Veteran population estimates at the state, county and Congressional District level and the number of unique patients who used VA health care services.
 
 ### Which model did you choose and why?
-- Linear regression 
+- Originally - Linear regression 
 - We want to predict the Efficiency score based on a number of factors including expenditures, unique patient data, patient experience, and employee satisfaction
 
 The basic pattern for supervised learning we plan to use in this linear regression problem:
@@ -53,3 +53,72 @@ The basic pattern for supervised learning we plan to use in this linear regressi
 - Create an instance of the model with model = LinearRegression().
 - Train the model with the dataset with model.fit(X,y).
 - Create predictions with y_pred = model.predict(X).
+
+We moved away from the linear model after examining our features and target
+
+
+## Description of preliminary data preprocessing
+Examined the proportion of missing values in the dataset and got rid of any features with missing values
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/missing_values.jpg)
+ 
+Plotted the correlation between the features and the target
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/Unknown.png)
+
+ 
+Encoded the categorical features using onehotencoder. To understand and evaluate a categorical variable, preprocessed the values using a technique called one-hot encoding. One-hot encoding identifies all unique column values and splits the single categorical column into a series of columns, each containing information about a single unique categorical value.
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/onehotencoder.jpg)
+
+ 
+Standardized the data: The model will interpret the raw numerical data inappropriately, which will yield an inadequate model. To minimize this risk, we used standardizing (also commonly referred to as normalization) on the numerical data prior to training.
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/standardize.jpg)
+
+ 
+Split the preprocessed data into features and target arrays (based on a number of factors including domain knowledge, correlations), split the data into training and testing datasets (80/20)
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/split.jpg)
+
+ 
+ 
+## Models
+
+# Random Forest model using random forest regressor
+
+MAE (mean absolute error was used instead of accuracy) 
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/RFR.jpg)
+
+
+# Deep Neural Network
+
+Activation function - Relu
+
+![VA_Analysis/Images/](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/relu.jpg)
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/DNN.jpg)
+
+Trained using 800 epochs
+
+# XGBRegressor
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/XGB.jpg)
+
+
+# To summarize what we did :
+- We load and processed the dataset
+- We got familiar with the dataset by plotting some histograms and a correlation heat map of the features
+- We used a deep neural network with three hidden layers each one has 256 nodes.
+- We used relu activation function on the output layer
+- We trained the model then tested it.
+- We also tested two other models: XGBRegressor and Random Forest Regressor
+- Our XGBRegressor was able to outscore the other two models
+
+# Next Steps :
+- Try to put more effort on processing the dataset
+- Try to tweak the hyperparameters of the models that we used
+- try scaling efficiency score and test accuracy of models
+
+
