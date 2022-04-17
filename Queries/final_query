@@ -1,0 +1,50 @@
+CREATE TABLE Expenditures ( 
+	 State_Name VARCHAR (40),
+	 City VARCHAR (40),
+	 County VARCHAR (40),
+     Medical_Expenditures INT NOT NULL,
+     Unique_Patients INT NOT NULL,
+	 YR VARCHAR (10) NOT NULL
+)
+ select * from expenditures
+ 
+CREATE TABLE Quality ( 
+	 State_Name VARCHAR (40),
+	 City VARCHAR (40),
+	 County VARCHAR (40),
+	 YR VARCHAR (10),
+	 BPTW_YR DECIMAL,
+	OJS_YR DECIMAL,
+	SWO_YR DECIMAL,
+	RMOAAGPTW_YR DECIMAL,
+	IPM_YR DECIMAL,
+	OPM_YR DECIMAL,
+	NPCACW30DFPD_YR DECIMAL,
+	NSCACW30DFPD_YR DECIMAL,
+	NMHACW30DFPD_YR DECIMAL,
+	EFF_YR DECIMAL
+)
+select * from quality
+
+select quality.state_name,
+	quality.city,
+	quality.county,
+	quality.yr,
+	quality.bptw_yr,
+	quality.ojs_yr,
+	quality.swo_yr,
+	quality.rmoaagptw_yr,
+	quality.ipm_yr,
+	quality.opm_yr,
+	quality.npcacw30dfpd_yr,
+	quality.nscacw30dfpd_yr,
+	quality.nmhacw30dfpd_yr,
+	quality.eff_yr,
+	expenditures.medical_expenditures,
+	expenditures.unique_patients
+	    Into Final
+	    From quality
+		join expenditures on (quality.yr=expenditures.yr  and quality.city = expenditures.city and quality.state_name = expenditures.state_name);
+
+
+select * from quality
