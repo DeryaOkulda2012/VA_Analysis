@@ -1,155 +1,726 @@
-State_Name,Medical_Expenditures,Unique_Patients ,FY
-Alabama,449798,27543,2019
-Alabama,502617,26979,2020
-Alabama,87061,5302,2018
-Alaska,167531,21724,2019
-Alaska,156294,9265,2018
-Arizona                                                                                                                     ,1757691,119172,2020
-Arizona                                                                                                                        ,1515211,118758,2019
-Arizona                                                                                                                        ,177639,13132,2018
-Arkansas                                                                                                                       ,326495,18099,2019
-Arkansas                                                                                                                       ,334031,17907,2020
-Arkansas                                                                                                                       ,72737,5550,2018
-California,3847202,229782,2019
-California,4233155,226787,2020
-California,313739,13795,2018
-Colorado                                                                                                                       ,276045,15881,2019
-Colorado                                                                                                                       ,313644,15594,2020
-Colorado                                                                                                                       ,110453,6734,2018
-Connecticut                                                                                                                      ,314392,13499,2019
-Connecticut                                                                                                                      ,324706,12924,2020
-Connecticut                                                                                                                      ,286558,13782,2018
-Delaware                                                                                                                     ,125279,8147,2019
-Delaware                                                                                                                     ,140032,8035,2020
-Delaware                                                                                                                     ,120781,7986,2018
-District of Columbia                                                                                                            ,246194,7885,2019
-District of Columbia                                                                                                            ,278653,7677,2020
-District of Columbia                                                                                                            ,311979,8081,2018
-Florida                                                                                                                     ,2413448,155362,2019
-Florida                                                                                                                     ,2692825,154726,2020
-Florida                                                                                                                     ,193636,17400,2018
-Georgia                                                                                                                     ,29779,26876,2019
-Georgia                                                                                                                     ,501512,26410,2020
-Georgia                                                                                                                     ,162261,10806,2018
-Hawaii                                                                                                                     ,266868,28756,2019
-Hawaii                                                                                                                     ,286933,29121,2020
-Hawaii                                                                                                                     ,236628,19604,2018
-Idaho                                                                                                               ,171356,47051,2019
-Idaho                                                                                                               ,202354,47431,2020
-Idaho                                                                                                               ,16871,1616,2018
-Illinois                                                                                                               ,1324655,67770,2019
-Illinois                                                                                                               ,1386342,63788,2020
-Illinois                                                                                                               ,43683,2807,2018
-Indiana                                                                                                               ,407979,25559,2019
-Indiana                                                                                                               ,435129,24214,2020
-Indiana                                                                                                               ,269119,18340,2018
-Iowa                                                                                                              ,179489,11117,2019
-Iowa                                                                                                              ,190928,10772,2020
-Iowa                                                                                                              ,132974,9166,2018
-Kansas                                                                                                             ,319458,61041,2019
-Kansas                                                                                                             ,363962,60542,2020
-Kansas                                                                                                             ,90001,5807,2018
-Kentucky                                                                                                             ,296382,21693,2019
-Kentucky                                                                                                             ,320481,21039,2020
-Kentucky                                                                                                             ,182427,15784,2018
-Louisiana                                                                                                        ,272995,13738,2019
-Louisiana                                                                                                        ,302532,13420,2020
-Louisiana                                                                                                        ,83229,5007,2018
-Maine                                                                                                       ,95313,5387,2019
-Maine                                                                                                       ,102454,5275,2020
-Maine                                                                                                       ,85522,5287,2018
-Maryland                                                                                                      ,332740,12860,2019
-Maryland                                                                                                      ,335767,12311,2020
-Maryland                                                                                                      ,252518,10451,2018
-Massachusetts,532960,22952,2019
-Massachusetts,576280,21825,2020
-Massachusetts,169187,6007,2018
-Michigan,580314,36659,2019
-Michigan,624336,35677,2020
-Michigan,324430,23876,2018
-Minnesota,351234,21822,2019
-Minnesota,384355,20949,2020
-Minnesota,106462,6024,2018
-Mississippi,262125,14485,2019
-Mississippi,297332,14346,2020
-Mississippi,104011,6070,2018
-Missouri                                                                                                                       ,553215,35710,2019
-Missouri                                                                                                                       ,619345,34991,2020
-Missouri                                                                                                                       ,176430,14182,2018
-Montana                                                                                                                        ,60424,3694,2019
-Montana                                                                                                                        ,74181,3679,2020
-Montana                                                                                                                        ,58334,3547,2018
-Nebraska                                                                                                                       ,164589,48458,2019
-Nebraska                                                                                                                       ,194561,47754,2020
-Nebraska                                                                                                                       ,151735,10243,2018
-Nevada                                                                                                                         ,887850,65565,2019
-Nevada                                                                                                                         ,1039490,65461,2020
-Nevada                                                                                                                         ,193130,13741,2018
-New Hampshire                                                                                                                  ,122650,8704,2019
-New Hampshire                                                                                                                  ,125624,8403,2020
-New Hampshire                                                                                                                  ,108479,8652,2018
-New Jersey                                                                                                                    ,142930,5942,2019
-New Jersey                                                                                                                    ,155190,5615,2020
-New Jersey                                                                                                                    ,128912,6091,2018
-New Mexico                                                                                                                     ,320928,18432,2019
-New Mexico                                                                                                                     ,338571,18080,2020
-New Mexico                                                                                                                     ,281838,18546,2018
-New York                                                                                                                      ,1435273,75108,2019
-New York                                                                                                                      ,1823159,88864,2020
-New York                                                                                                                      ,131099,7345,2018
-North Carolina                                                                                                                ,484252,34248,2019
-North Carolina                                                                                                                ,681354,42060,2020
-North Carolina                                                                                                                ,95309,5030,2018
-North Dakota                                                                                                                   ,80932,4728,2019
-North Dakota                                                                                                                   ,93760,4686,2020
-North Dakota                                                                                                                   ,67748,4602,2018
-Ohio                                                                                                                           ,1241286,73133,2019
-Ohio                                                                                                                           ,1341098,71568,2020
-Ohio                                                                                                                           ,75941,2903,2018
-Oklahoma                                                                                                                      ,281925,19848,2019
-Oklahoma                                                                                                                      ,307111,19961,2020
-Oklahoma                                                                                                                      ,198703,16251,2018
-Oregon                                                                                                                         ,485167,27420,2019
-Oregon                                                                                                                         ,561434,26744,2020
-Oregon                                                                                                                         ,211452,12278,2018
-Pennsylvania                                                                                                                   ,1246740,77736,2019
-Pennsylvania                                                                                                                   ,1356331,75149,2020
-Pennsylvania                                                                                                                   ,316025,18495,2018
-Puerto Rico                                                                                                                   ,106509,4807,2020
-Puerto Rico                                                                                                                   ,89609,4743,2018
-Rhode Island                                                                                                                   ,167911,10498,2019
-Rhode Island                                                                                                                   ,194838,10122,2020
-Rhode Island                                                                                                                   ,157187,10576,2018
-South Carolina                                                                                                                 ,375301,28742,2019
-South Carolina                                                                                                                 ,436833,28595,2020
-South Carolina                                                                                                                 ,186781,17278,2018
-South Dakota                                                                                                                   ,136205,8359,2019
-South Dakota                                                                                                                   ,158490,8094,2020
-South Dakota                                                                                                                   ,72178,5379,2018
-Tennessee                                                                                                                      ,598626,33548,2019
-Tennessee                                                                                                                      ,667508,32847,2020
-Tennessee                                                                                                                      ,277232,16938,2018
-Texas                                                                                                                          ,2724086,513806,2019
-Texas                                                                                                                          ,3044267,519610,2020
-Texas                                                                                                                          ,71073,3333,2018
-Utah                                                                                                                           ,278609,13750,2019
-Utah                                                                                                                           ,310891,13265,2020
-Utah                                                                                                                           ,261041,13917,2018
-Vermont                                                                                                                        ,37982,1968,2019
-Vermont                                                                                                                        ,43339,1932,2020
-Vermont                                                                                                                        ,33631,2000,2018
-Virginia                                                                                                                       ,232197,12041,2019
-Virginia                                                                                                                       ,260051,12019,2020
-Virginia                                                                                                                       ,13616,746,2018
-Washington                                                                                                                     ,556579,36716,2019
-Washington                                                                                                                     ,649896,36161,2020
-Washington                                                                                                                     ,27118,1998,2018
-West Virginia                                                                                                                  ,256430,12585,2019
-West Virginia                                                                                                                  ,284032,12217,2020
-West Virginia                                                                                                                  ,27884,1580,2018
-Wisconsin                                                                                                                     ,514866,24933,2019
-Wisconsin                                                                                                                     ,571065,24167,2020
-Wisconsin                                                                                                                     ,76696,2797,2018
-Wyoming                                                                                                                        ,135903,7089,2019
-Wyoming                                                                                                                        ,174171,6927,2020
-Wyoming                                                                                                                        ,47068,1901,2018
+State_Name,City,County,Medical_Expenditures,Unique_Patients ,YR
+New York,Albany,Albany,77737,4632,FY15
+New York,Albany,Albany,69628,4573,FY16
+New York,Albany,Albany,76544,4583,FY17
+New York,Albany,Albany,70034,4366,FY18
+New York,Albany,Albany,73634,4310,FY19
+New Mexico,Albuquerque,Bernalillo,266270,18071,FY15
+New Mexico,Albuquerque,Bernalillo,266831,18272,FY16
+New Mexico,Albuquerque,Bernalillo,288655,18253,FY17
+New Mexico,Albuquerque,Bernalillo,281838,18546,FY18
+New Mexico,Albuquerque,Bernalillo,320928,18432,FY19
+Louisiana,Alexandria,Rapides,81717,5207,FY15
+Louisiana,Alexandria,Rapides,72244,5220,FY16
+Louisiana,Alexandria,Rapides,77819,4994,FY17
+Louisiana,Alexandria,Rapides,83229,5007,FY18
+Louisiana,Alexandria,Rapides,90966,5012,FY19
+Pennsylvania,Altoona,Blair,61520,4898,FY15
+Pennsylvania,Altoona,Blair,52037,4800,FY16
+Pennsylvania,Altoona,Blair,56562,4655,FY17
+Pennsylvania,Altoona,Blair,56114,4637,FY18
+Pennsylvania,Altoona,Blair,61158,4630,FY19
+Texas,Amarillo,Potter,69377,3457,FY15
+Texas,Amarillo,Potter,68368,3391,FY16
+Texas,Amarillo,Potter,72467,3331,FY17
+Texas,Amarillo,Potter,71073,3333,FY18
+Texas,Amarillo,Potter,72263,3212,FY19
+Alaska,Anchorage,Alaska,123213,9005,FY15
+Alaska,Anchorage,Alaska,122428,9158,FY16
+Alaska,Anchorage,Alaska,143010,9019,FY17
+Alaska,Anchorage,Alaska,156294,9265,FY18
+Alaska,Anchorage,Alaska,167531,9469,FY19
+Michigan,Ann Arbor,Washtenaw,70989,3817,FY15
+Michigan,Ann Arbor,Washtenaw,70207,3944,FY16
+Michigan,Ann Arbor,Washtenaw,72640,4017,FY17
+Michigan,Ann Arbor,Washtenaw,73503,3989,FY18
+Michigan,Ann Arbor,Washtenaw,85043,3970,FY19
+North Carolina,Asheville,Buncombe,113249,7610,FY15
+North Carolina,Asheville,Buncombe,110115,7785,FY16
+North Carolina,Asheville,Buncombe,110385,7814,FY17
+North Carolina,Asheville,Buncombe,113409,7621,FY18
+North Carolina,Asheville,Buncombe,124126,7710,FY19
+Georgia,Atlanta,Dekalb,205559,13184,FY15
+Georgia,Atlanta,Dekalb,200192,13736,FY16
+Georgia,Atlanta,Dekalb,214826,13669,FY17
+Georgia,Atlanta,Dekalb,212117,13897,FY18
+Georgia,Atlanta,Dekalb,21034,14012,FY19
+Georgia,Augusta,Richmond,141575,10216,FY15
+Georgia,Augusta,Richmond,150540,10271,FY16
+Georgia,Augusta,Richmond,163218,10639,FY17
+Georgia,Augusta,Richmond,162261,10806,FY18
+Georgia,Augusta,Richmond,5162,10901,FY19
+Maryland,Baltimore,Baltimore City,266686,11461,FY15
+Maryland,Baltimore,Baltimore City,246393,11332,FY16
+Maryland,Baltimore,Baltimore City,224220,10630,FY17
+Maryland,Baltimore,Baltimore City,252518,10451,FY18
+Maryland,Baltimore,Baltimore City,266234,10322,FY19
+New York,Bath,Steuben,57851,3622,FY15
+New York,Bath,Steuben,53912,3422,FY16
+New York,Bath,Steuben,55195,3534,FY17
+New York,Bath,Steuben,57146,3509,FY18
+New York,Bath,Steuben,62244,3418,FY19
+Michigan,Battle Creek,Kalamazoo,43958,3373,FY15
+Michigan,Battle Creek,Kalamazoo,44572,3463,FY16
+Michigan,Battle Creek,Kalamazoo,46599,3494,FY17
+Michigan,Battle Creek,Kalamazoo,45168,3541,FY18
+Michigan,Battle Creek,Kalamazoo,46549,3533,FY19
+Florida,Bay Pines,Pinellas,487794,33171,FY15
+Florida,Bay Pines,Pinellas,466984,33382,FY16
+Florida,Bay Pines,Pinellas,497746,33227,FY17
+Florida,Bay Pines,Pinellas,471146,32955,FY18
+Florida,Bay Pines,Pinellas,524653,32963,FY19
+West Virginia,Beckley,Raleigh,62749,3659,FY15
+West Virginia,Beckley,Raleigh,56031,3678,FY16
+West Virginia,Beckley,Raleigh,63317,3572,FY17
+West Virginia,Beckley,Raleigh,58622,3551,FY18
+West Virginia,Beckley,Raleigh,65181,3432,FY19
+Massachusetts,Bedford,Middlesex,268998,14816,FY15
+Massachusetts,Bedford,Middlesex,250187,14718,FY16
+Massachusetts,Bedford,Middlesex,262295,14669,FY17
+Massachusetts,Bedford,Middlesex,273473,14510,FY18
+Massachusetts,Bedford,Middlesex,280194,14176,FY19
+Texas,Big Spring,Howard,18360,1364,FY15
+Texas,Big Spring,Howard,18457,1283,FY16
+Texas,Big Spring,Howard,21160,1315,FY17
+Texas,Big Spring,Howard,21963,1301,FY18
+Texas,Big Spring,Howard,25759,1256,FY19
+Alabama,Birmingham,"Jefferson, AL",225147,15224,FY15
+Alabama,Birmingham,"Jefferson, AL",219038,15126,FY16
+Alabama,Birmingham,"Jefferson, AL",242622,15306,FY17
+Alabama,Birmingham,"Jefferson, AL",236792,15201,FY18
+Alabama,Birmingham,"Jefferson, AL",260418,15044,FY19
+Idaho,Boise,Ada,129472,11541,FY15
+Idaho,Boise,Ada,119643,11941,FY16
+Idaho,Boise,Ada,137025,12353,FY17
+Idaho,Boise,Ada,146794,13125,FY18
+Idaho,Boise,Ada,154441,13020,FY19
+Massachusetts,Boston,Suffolk,169200,6263,FY15
+Massachusetts,Boston,Suffolk,159673,6155,FY16
+Massachusetts,Boston,Suffolk,186099,6122,FY17
+Massachusetts,Boston,Suffolk,169187,6007,FY18
+Massachusetts,Boston,Suffolk,194259,5708,FY19
+New York,Bronx,Bronx,251550,10709,FY15
+New York,Bronx,Bronx,242352,10739,FY16
+New York,Bronx,Bronx,246481,10509,FY17
+New York,Bronx,Bronx,232332,10157,FY18
+New York,Bronx,Bronx,256768,9870,FY19
+New York,Brooklyn,Kings,263832,13008,FY15
+New York,Brooklyn,Kings,251484,12859,FY16
+New York,Brooklyn,Kings,243203,12574,FY17
+New York,Brooklyn,Kings,252041,12290,FY18
+New York,Brooklyn,Kings,271280,12083,FY19
+New York,Buffalo,"Erie, NY",233120,18687,FY15
+New York,Buffalo,"Erie, NY",224396,18781,FY16
+New York,Buffalo,"Erie, NY",239340,18712,FY17
+New York,Buffalo,"Erie, NY",251599,18464,FY18
+New York,Buffalo,"Erie, NY",249667,18213,FY19
+Pennsylvania,Butler,Butler,66453,5509,FY15
+Pennsylvania,Butler,Butler,57092,5588,FY16
+Pennsylvania,Butler,Butler,56562,5576,FY17
+Pennsylvania,Butler,Butler,65518,5638,FY18
+Pennsylvania,Butler,Butler,73839,5627,FY19
+New York,Canandaigua,Ontario,49507,3090,FY15
+New York,Canandaigua,Ontario,44504,3062,FY16
+New York,Canandaigua,Ontario,47528,3027,FY17
+New York,Canandaigua,Ontario,47557,2989,FY18
+New York,Canandaigua,Ontario,52737,2972,FY19
+Iowa,Central Iowa,Polk,130025,9079,FY15
+Iowa,Central Iowa,Polk,120344,9116,FY16
+Iowa,Central Iowa,Polk,16511,9035,FY17
+Iowa,Central Iowa,Polk,132974,9166,FY18
+Iowa,Central Iowa,Polk,148092,9195,FY19
+South Carolina,Charleston,Charleston,154775,11040,FY15
+South Carolina,Charleston,Charleston,152374,10990,FY16
+South Carolina,Charleston,Charleston,160464,11103,FY17
+South Carolina,Charleston,Charleston,165562,11243,FY18
+South Carolina,Charleston,Charleston,174216,11097,FY19
+Wyoming,Cheyenne,Laramie,71761,5017,FY15
+Wyoming,Cheyenne,Laramie,72635,4948,FY16
+Wyoming,Cheyenne,Laramie,79825,5029,FY17
+Wyoming,Cheyenne,Laramie,26742,5046,FY18
+Wyoming,Cheyenne,Laramie,90813,5219,FY19
+Illinois,Chicago,Cook,863859,55512,FY15
+Illinois,Chicago,Cook,825057,54256,FY16
+Illinois,Chicago,Cook,897171,53148,FY17
+Illinois,Chicago,Cook,900452,51490,FY18
+Illinois,Chicago,Cook,981828,50859,FY19
+Ohio,Chillicothe,Ross,63386,2681,FY15
+Ohio,Chillicothe,Ross,59922,2761,FY16
+Ohio,Chillicothe,Ross,68275,2760,FY17
+Ohio,Chillicothe,Ross,75941,2903,FY18
+Ohio,Chillicothe,Ross,84237,2875,FY19
+Ohio,Cincinnati,Hamilton,203791,13311,FY15
+Ohio,Cincinnati,Hamilton,192895,13390,FY16
+Ohio,Cincinnati,Hamilton,214301,13217,FY17
+Ohio,Cincinnati,Hamilton,210843,13253,FY18
+Ohio,Cincinnati,Hamilton,236173,13210,FY19
+West Virginia,Clarksburg,"Harrison, WV",48780,3098,FY15
+West Virginia,Clarksburg,"Harrison, WV",45941,3133,FY16
+West Virginia,Clarksburg,"Harrison, WV",46912,2994,FY17
+West Virginia,Clarksburg,"Harrison, WV",46546,3024,FY18
+West Virginia,Clarksburg,"Harrison, WV",51357,2944,FY19
+Ohio,Cleveland,Cuyahoga,386106,23482,FY15
+Ohio,Cleveland,Cuyahoga,400094,24094,FY16
+Ohio,Cleveland,Cuyahoga,425770,24385,FY17
+Ohio,Cleveland,Cuyahoga,422879,24542,FY18
+Ohio,Cleveland,Cuyahoga,453266,24311,FY19
+Pennsylvania,Coatesville,Chester,130759,7549,FY15
+Pennsylvania,Coatesville,Chester,120670,7537,FY16
+Pennsylvania,Coatesville,Chester,140068,7618,FY17
+Pennsylvania,Coatesville,Chester,127297,7653,FY18
+Pennsylvania,Coatesville,Chester,143763,7596,FY19
+Missouri,Columbia MO,Boone,57659,3719,FY15
+Missouri,Columbia MO,Boone,52712,3778,FY16
+Missouri,Columbia MO,Boone,57519,3936,FY17
+Missouri,Columbia MO,Boone,65824,4146,FY18
+Missouri,Columbia MO,Boone,72763,4181,FY19
+South Carolina,Columbia SC,Richland,166622,15993,FY15
+South Carolina,Columbia SC,Richland,167717,16331,FY16
+South Carolina,Columbia SC,Richland,181633,16769,FY17
+South Carolina,Columbia SC,Richland,188781,17278,FY18
+South Carolina,Columbia SC,Richland,201085,17645,FY19
+Ohio,Columbus,Franklin,187030,19017,FY15
+Ohio,Columbus,Franklin,178228,19325,FY16
+Ohio,Columbus,Franklin,207163,19540,FY17
+Ohio,Columbus,Franklin,223164,19674,FY18
+Ohio,Columbus,Franklin,239884,19786,FY19
+Connecticut,Connecticut,New Haven,283447,14129,FY15
+Connecticut,Connecticut,New Haven,268897,14030,FY16
+Connecticut,Connecticut,New Haven,283093,13843,FY17
+Connecticut,Connecticut,New Haven,286558,13782,FY18
+Connecticut,Connecticut,New Haven,314392,13499,FY19
+Texas,Dallas,Dallas,410243,29724,FY15
+Texas,Dallas,Dallas,405855,30043,FY16
+Texas,Dallas,Dallas,454254,30177,FY17
+Texas,Dallas,Dallas,453191,30145,FY18
+Texas,Dallas,Dallas,488673,30073,FY19
+Illinois,Danville,Vermilion,63348,2768,FY15
+Illinois,Danville,Vermilion,60136,2720,FY16
+Illinois,Danville,Vermilion,64478,2651,FY17
+Illinois,Danville,Vermilion,62976,2575,FY18
+Illinois,Danville,Vermilion,66083,2533,FY19
+Ohio,Dayton,Montgomery,185809,12231,FY15
+Ohio,Dayton,Montgomery,187050,12379,FY16
+Ohio,Dayton,Montgomery,203573,12635,FY17
+Ohio,Dayton,Montgomery,203477,12717,FY18
+Ohio,Dayton,Montgomery,227726,12951,FY19
+Colorado,Denver,Denver,158967,9197,FY15
+Colorado,Denver,Denver,148893,9341,FY16
+Colorado,Denver,Denver,164468,9257,FY17
+Colorado,Denver,Denver,155620,9102,FY18
+Colorado,Denver,Denver,152846,9000,FY19
+Michigan,Detroit,Wayne,317921,23951,FY15
+Michigan,Detroit,Wayne,299580,23973,FY16
+Michigan,Detroit,Wayne,319489,23745,FY17
+Michigan,Detroit,Wayne,324430,23876,FY18
+Michigan,Detroit,Wayne,360716,23315,FY19
+Georgia,Dublin,Laurens,41320,1955,FY15
+Georgia,Dublin,Laurens,41922,1905,FY16
+Georgia,Dublin,Laurens,46842,1943,FY17
+Georgia,Dublin,Laurens,47218,1980,FY18
+Georgia,Dublin,Laurens,3584,1963,FY19
+North  Carolina,Durham,Durham,132796,5200,FY15
+North  Carolina,Durham,Durham,127116,5363,FY16
+North  Carolina,Durham,Durham,115499,5407,FY17
+North  Carolina,Durham,Durham,117961,5411,FY18
+North  Carolina,Durham,Durham,133435,5448,FY19
+New Jersey,East Orange,Essex,130367,6468,FY15
+New Jersey,East Orange,Essex,131952,6401,FY16
+New Jersey,East Orange,Essex,129881,6230,FY17
+New Jersey,East Orange,Essex,129912,6091,FY18
+New Jersey,East Orange,Essex,142930,5942,FY19
+Texas,El Paso,El Paso,204430,22482,FY15
+Texas,El Paso,El Paso,191650,23392,FY16
+Texas,El Paso,El Paso,250360,23917,FY17
+Texas,El Paso,El Paso,255308,24651,FY18
+Texas,El Paso,El Paso,277833,24961,FY19
+Pennsylvania,Erie,Erie,91866,8493,FY15
+Pennsylvania,Erie,Erie,82388,8495,FY16
+Pennsylvania,Erie,Erie,95194,8348,FY17
+Pennsylvania,Erie,Erie,95554,8254,FY18
+Pennsylvania,Erie,Erie,99547,8318,FY19
+North Dakota,Fargo,Cass,61884,4503,FY15
+North Dakota,Fargo,Cass,53136,4490,FY16
+North Dakota,Fargo,Cass,63244,4530,FY17
+North Dakota,Fargo,Cass,67748,4602,FY18
+North Dakota,Fargo,Cass,80932,4728,FY19
+Arkansas,Fayetteville AR,Washington,74055,5663,FY15
+Arkansas,Fayetteville AR,Washington,60950,5549,FY16
+Arkansas,Fayetteville AR,Washington,68662,5632,FY17
+Arkansas,Fayetteville AR,Washington,72737,5550,FY18
+Arkansas,Fayetteville AR,Washington,90707,5595,FY19
+North Carolina,Fayetteville NC,Cumberland,178070,19586,FY15
+North Carolina,Fayetteville NC,Cumberland,183473,20782,FY16
+North Carolina,Fayetteville NC,Cumberland,212165,21984,FY17
+North Carolina,Fayetteville NC,Cumberland,227216,22880,FY18
+North Carolina,Fayetteville NC,Cumberland,250923,23722,FY19
+Maryland,Fort Meade,Anne Arundel,81597,8496,FY15
+Maryland,Fort Meade,Anne Arundel,83572,8757,FY16
+Maryland,Fort Meade,Anne Arundel,90824,8498,FY17
+Maryland,Fort Meade,Anne Arundel,90373,8747,FY18
+Maryland,Fort Meade,Anne Arundel,99984,9154,FY19
+Indiana,Fort Wayne,Allen,82246,7391,FY15
+Indiana,Fort Wayne,Allen,78099,7377,FY16
+Indiana,Fort Wayne,Allen,8815,7391,FY17
+Indiana,Fort Wayne,Allen,90156,7285,FY18
+Indiana,Fort Wayne,Allen,103937,7382,FY19
+California,Fresno,Fresno,199906,14136,FY15
+California,Fresno,Fresno,209310,14556,FY16
+California,Fresno,Fresno,219719,14639,FY17
+California,Fresno,Fresno,226593,14552,FY18
+California,Fresno,Fresno,259440,14543,FY19
+Florida,Gainesville,Alachua,157064,7840,FY15
+Florida,Gainesville,Alachua,142399,7691,FY16
+Florida,Gainesville,Alachua,154360,7622,FY17
+Florida,Gainesville,Alachua,153387,7699,FY18
+Florida,Gainesville,Alachua,167235,7735,FY19
+Colorado,Grand Junction,Mesa,99236,6402,FY15
+Colorado,Grand Junction,Mesa,95268,6468,FY16
+Colorado,Grand Junction,Mesa,104396,6545,FY17
+Colorado,Grand Junction,Mesa,110453,6734,FY18
+Colorado,Grand Junction,Mesa,123198,6881,FY19
+Mississippi,Gulf Coast HCS,Harrison,116660,7999,FY15
+Mississippi,Gulf Coast HCS,Harrison,108161,8110,FY16
+Mississippi,Gulf Coast HCS,Harrison,123898,8219,FY17
+Mississippi,Gulf Coast HCS,Harrison,131498,8342,FY18
+Mississippi,Gulf Coast HCS,Harrison,152928,8601,FY19
+Virginia,Hampton,Hampton City,95520,6205,FY15
+Virginia,Hampton,Hampton City,95144,6213,FY16
+Virginia,Hampton,Hampton City,101855,6436,FY17
+Virginia,Hampton,Hampton City,103264,6539,FY18
+Virginia,Hampton,Hampton City,113474,6772,FY19
+Texas,Harlingen,Cameron,75718,6721,FY15
+Texas,Harlingen,Cameron,80134,6931,FY16
+Texas,Harlingen,Cameron,87174,7314,FY17
+Texas,Harlingen,Cameron,91376,7593,FY18
+Texas,Harlingen,Cameron,105319,7674,FY19
+Illinois,Hines,Cook,863859,55512,FY15
+Illinois,Hines,Cook,825057,54256,FY16
+Illinois,Hines,Cook,897171,53148,FY17
+Illinois,Hines,Cook,900452,51490,FY18
+Illinois,Hines,Cook,981828,50859,FY19
+Hawaii,Honolulu,Honolulu,184702,18320,FY15
+Hawaii,Honolulu,Honolulu,201797,19145,FY16
+Hawaii,Honolulu,Honolulu,224394,19010,FY17
+Hawaii,Honolulu,Honolulu,236628,19604,FY18
+Hawaii,Honolulu,Honolulu,266868,20117,FY19
+South Dakota,Hot Springs,Fall River,25804,898,FY15
+South Dakota,Hot Springs,Fall River,16062,687,FY16
+South Dakota,Hot Springs,Fall River,19943,690,FY17
+South Dakota,Hot Springs,Fall River,19770,731,FY18
+South Dakota,Hot Springs,Fall River,23050,930,FY19
+Texas,Houston,Harris,653298,47501,FY15
+Texas,Houston,Harris,628912,48811,FY16
+Texas,Houston,Harris,668405,49223,FY17
+Texas,Houston,Harris,704116,49443,FY18
+Texas,Houston,Harris,784570,50574,FY19
+New York,Hudson Valley,Westchester,145944,7894,FY15
+New York,Hudson Valley,Westchester,142225,7862,FY16
+New York,Hudson Valley,Westchester,140398,7551,FY17
+New York,Hudson Valley,Westchester,131099,7345,FY18
+New York,Hudson Valley,Westchester,139263,7058,FY19
+West Virginia,Huntington,"Wayne, WV",23100,1622,FY15
+West Virginia,Huntington,"Wayne, WV",24437,1636,FY16
+West Virginia,Huntington,"Wayne, WV",25901,1548,FY17
+West Virginia,Huntington,"Wayne, WV",27884,1580,FY18
+West Virginia,Huntington,"Wayne, WV",32984,1588,FY19
+Indiana,Indianapolis,Marion,265817,18491,FY15
+Indiana,Indianapolis,Marion,265724,18558,FY16
+Indiana,Indianapolis,Marion,280798,18504,FY17
+Indiana,Indianapolis,Marion,269119,18340,FY18
+Indiana,Indianapolis,Marion,304042,18177,FY19
+Iowa,Iowa City,Johnson,25196,1863,FY15
+Iowa,Iowa City,Johnson,24102,1800,FY16
+Iowa,Iowa City,Johnson,126511,1912,FY17
+Iowa,Iowa City,Johnson,29568,1869,FY18
+Iowa,Iowa City,Johnson,31397,1922,FY19
+Michigan,Iron Mountain,Dickinson,23701,1435,FY15
+Michigan,Iron Mountain,Dickinson,20974,1425,FY16
+Michigan,Iron Mountain,Dickinson,25149,1427,FY17
+Michigan,Iron Mountain,Dickinson,23864,1467,FY18
+Michigan,Iron Mountain,Dickinson,28453,1478,FY19
+Mississippi,Jackson,Hinds,110912,6595,FY15
+Mississippi,Jackson,Hinds,101506,6446,FY16
+Mississippi,Jackson,Hinds,104113,6276,FY17
+Mississippi,Jackson,Hinds,104011,6070,FY18
+Mississippi,Jackson,Hinds,109197,5884,FY19
+Missouri,Kansas City,"Jackson, MO",194243,14964,FY15
+Missouri,Kansas City,"Jackson, MO",204131,15028,FY16
+Missouri,Kansas City,"Jackson, MO",219436,15073,FY17
+Missouri,Kansas City,"Jackson, MO",225541,15222,FY18
+Missouri,Kansas City,"Jackson, MO",237744,15038,FY19
+Florida,Lake City,Columbia,77837,3679,FY15
+Florida,Lake City,Columbia,76677,3781,FY16
+Florida,Lake City,Columbia,84575,3784,FY17
+Florida,Lake City,Columbia,84929,3861,FY18
+Florida,Lake City,Columbia,83461,3790,FY19
+Nevada,Las Vegas,Clark,599457,45465,FY15
+Nevada,Las Vegas,Clark,550913,47177,FY16
+Nevada,Las Vegas,Clark,583438,48488,FY17
+Nevada,Las Vegas,Clark,596546,50276,FY18
+Nevada,Las Vegas,Clark,663197,51666,FY19
+Kansas,Leavenworth,Leavenworth,63313,3612,FY15
+Kansas,Leavenworth,Leavenworth,64223,3782,FY16
+Kansas,Leavenworth,Leavenworth,64589,3824,FY17
+Kansas,Leavenworth,Leavenworth,69322,4028,FY18
+Kansas,Leavenworth,Leavenworth,70739,4042,FY19
+Pennsylvania,Lebanon,Lebanon,65749,4713,FY15
+Pennsylvania,Lebanon,Lebanon,64356,4700,FY16
+Pennsylvania,Lebanon,Lebanon,66437,4658,FY17
+Pennsylvania,Lebanon,Lebanon,71934,4743,FY18
+Pennsylvania,Lebanon,Lebanon,74936,4768,FY19
+Kentucky,Lexington,Fayette,88637,6291,FY15
+Kentucky,Lexington,Fayette,87828,6282,FY16
+Kentucky,Lexington,Fayette,89304,6219,FY17
+Kentucky,Lexington,Fayette,90434,6167,FY18
+Kentucky,Lexington,Fayette,99480,6154,FY19
+Arkansas,Little Rock,Pulaski,212260,12738,FY15
+Arkansas,Little Rock,Pulaski,206389,12668,FY16
+Arkansas,Little Rock,Pulaski,203709,12665,FY17
+Arkansas,Little Rock,Pulaski,209013,12520,FY18
+Arkansas,Little Rock,Pulaski,235788,12504,FY19
+California,Loma Linda,San Bernadino,366384,28918,FY15
+California,Loma Linda,San Bernadino,368166,28791,FY16
+California,Loma Linda,San Bernadino,389840,28605,FY17
+California,Loma Linda,San Bernadino,413254,28827,FY18
+California,Loma Linda,San Bernadino,458558,29275,FY19
+California,Long Beach,Los Angeles ,1254932,75905,FY15
+California,Long Beach,Los Angeles ,1223248,74863,FY16
+California,Long Beach,Los Angeles ,1244051,73710,FY17
+California,Long Beach,Los Angeles ,1239807,73725,FY18
+California,Long Beach,Los Angeles ,1353994,72759,FY19
+California,Los Angeles,Los Angeles County,1254932,75905,FY15
+California,Los Angeles,Los Angeles County,1223248,74863,FY16
+California,Los Angeles,Los Angeles County,1244051,73710,FY17
+California,Los Angeles,Los Angeles County,1239807,73725,FY18
+California,Los Angeles,Los Angeles County,1353994,72759,FY19
+Kentucky,Louisville,Jefferson,184462,16188,FY15
+Kentucky,Louisville,Jefferson,180171,16155,FY16
+Kentucky,Louisville,Jefferson,186350,15925,FY17
+Kentucky,Louisville,Jefferson,182427,15784,FY18
+Kentucky,Louisville,Jefferson,196902,15539,FY19
+Wisconsin,Madison,Dane,98939,7129,FY15
+Wisconsin,Madison,Dane,95470,7297,FY16
+Wisconsin,Madison,Dane,97728,7442,FY17
+Wisconsin,Madison,Dane,98405,7440,FY18
+Wisconsin,Madison,Dane,112072,7465,FY19
+New Hampshire,Manchester,Hillsborough,92264,8062,FY15
+New Hampshire,Manchester,Hillsborough,89811,8357,FY16
+New Hampshire,Manchester,Hillsborough,104125,8529,FY17
+New Hampshire,Manchester,Hillsborough,108479,8652,FY18
+New Hampshire,Manchester,Hillsborough,122650,8704,FY19
+Illinois,Marion IL,Williamson,49663,2796,FY15
+Illinois,Marion IL,Williamson,44525,2807,FY16
+Illinois,Marion IL,Williamson,43869,2823,FY17
+Illinois,Marion IL,Williamson,43683,2807,FY18
+Illinois,Marion IL,Williamson,51534,2727,FY19
+West Virginia,Martinsburg,Berkeley,97486,4325,FY15
+West Virginia,Martinsburg,Berkeley,87125,4418,FY16
+West Virginia,Martinsburg,Berkeley,95573,4549,FY17
+West Virginia,Martinsburg,Berkeley,93800,4549,FY18
+West Virginia,Martinsburg,Berkeley,106908,4621,FY19
+Tennessee,Memphis,Shelby,259477,17850,FY15
+Tennessee,Memphis,Shelby,259272,17725,FY16
+Tennessee,Memphis,Shelby,272325,17353,FY17
+Tennessee,Memphis,Shelby,277232,16938,FY18
+Tennessee,Memphis,Shelby,305138,17145,FY19
+Florida,Miami,Mami-Dade,306344,18508,FY15
+Florida,Miami,Mami-Dade,290699,18248,FY16
+Florida,Miami,Mami-Dade,311911,18081,FY17
+Florida,Miami,Mami-Dade,322642,18481,FY18
+Florida,Miami,Mami-Dade,338726,18683,FY19
+Wisconsin,Milwaukee,Milwaukee,298592,15238,FY15
+Wisconsin,Milwaukee,Milwaukee,279823,15192,FY16
+Wisconsin,Milwaukee,Milwaukee,296509,15008,FY17
+Wisconsin,Milwaukee,Milwaukee,302076,14871,FY18
+Wisconsin,Milwaukee,Milwaukee,327063,14690,FY19
+Minnesota,Minneapolis,Hennepin,217317,15722,FY15
+Minnesota,Minneapolis,Hennepin,210215,15754,FY16
+Minnesota,Minneapolis,Hennepin,224546,15525,FY17
+Minnesota,Minneapolis,Hennepin,234542,15625,FY18
+Minnesota,Minneapolis,Hennepin,239808,15680,FY19
+Montana,Montana,Lewis And Clark,59093,3534,FY15
+Montana,Montana,Lewis And Clark,54146,3548,FY16
+Montana,Montana,Lewis And Clark,58888,3690,FY17
+Montana,Montana,Lewis And Clark,58334,3547,FY18
+Montana,Montana,Lewis And Clark,60424,3694,FY19
+Alabama,Montgomery,"Montgomery, AL",82630,6932,FY15
+Alabama,Montgomery,"Montgomery, AL",82747,6991,FY16
+Alabama,Montgomery,"Montgomery, AL",96146,7037,FY17
+Alabama,Montgomery,"Montgomery, AL",94033,7039,FY18
+Alabama,Montgomery,"Montgomery, AL",98495,7234,FY19
+Idaho,Mountain Home,Elmore,12225,1448,FY15
+Idaho,Mountain Home,Elmore,12542,1455,FY16
+Idaho,Mountain Home,Elmore,13898,1481,FY17
+Idaho,Mountain Home,Elmore,16871,1616,FY18
+Idaho,Mountain Home,Elmore,16915,1634,FY19
+Tennessee,Murfreesboro,Rutherford,107877,6221,FY15
+Tennessee,Murfreesboro,Rutherford,107456,6497,FY16
+Tennessee,Murfreesboro,Rutherford,114522,6751,FY17
+Tennessee,Murfreesboro,Rutherford,110483,6849,FY18
+Tennessee,Murfreesboro,Rutherford,116849,6846,FY19
+Oaklahoma,Muskogee,Muskogee,45552,3110,FY15
+Oaklahoma,Muskogee,Muskogee,47181,3247,FY16
+Oaklahoma,Muskogee,Muskogee,48796,3128,FY17
+Oaklahoma,Muskogee,Muskogee,49770,3081,FY18
+Oaklahoma,Muskogee,Muskogee,53452,3134,FY19
+Tennessee,Nashville,Davidson,160212,9744,FY15
+Tennessee,Nashville,Davidson,155536,9836,FY16
+Tennessee,Nashville,Davidson,165072,9754,FY17
+Tennessee,Nashville,Davidson,160189,9727,FY18
+Tennessee,Nashville,Davidson,176639,9557,FY19
+Louisiana,New Orleans,Orleans,105246,6875,FY15
+Louisiana,New Orleans,Orleans,107714,7071,FY16
+Louisiana,New Orleans,Orleans,127357,7130,FY17
+Louisiana,New Orleans,Orleans,156551,7196,FY18
+Louisiana,New Orleans,Orleans,179260,7239,FY19
+New York,New York,New York,176555,8801,FY15
+New York,New York,New York,157232,8602,FY16
+New York,New York,New York,157017,8369,FY17
+New York,New York,New York,157851,8219,FY18
+New York,New York,New York,166282,7935,FY19
+Illinois,North Chicago,Lake,195469,9983,FY15
+Illinois,North Chicago,Lake,191387,9992,FY16
+Illinois,North Chicago,Lake,206986,9940,FY17
+Illinois,North Chicago,Lake,231862,11846,FY18
+Illinois,North Chicago,Lake,225210,11651,FY19
+Massachusetts,Northampton,Hampshire,52018,2869,FY15
+Massachusetts,Northampton,Hampshire,52060,2943,FY16
+Massachusetts,Northampton,Hampshire,55760,3034,FY17
+Massachusetts,Northampton,Hampshire,54506,3074,FY18
+Massachusetts,Northampton,Hampshire,58508,3068,FY19
+New York,Northport,"Suffolk, NY",294543,19101,FY15
+New York,Northport,"Suffolk, NY",281885,19262,FY16
+New York,Northport,"Suffolk, NY",291971,18743,FY17
+New York,Northport,"Suffolk, NY",284615,18434,FY18
+New York,Northport,"Suffolk, NY",303880,18139,FY19
+Oaklahoma,Oklahoma City,Oklahoma,174225,15910,FY15
+Oaklahoma,Oklahoma City,Oklahoma,172220,15827,FY16
+Oaklahoma,Oklahoma City,Oklahoma,187861,16019,FY17
+Oaklahoma,Oklahoma City,Oklahoma,198703,16251,FY18
+Oaklahoma,Oklahoma City,Oklahoma,228473,16714,FY19
+Nebraska,Omaha,"Douglas, NE",147316,9955,FY15
+Nebraska,Omaha,"Douglas, NE",125847,9903,FY16
+Nebraska,Omaha,"Douglas, NE",141982,10218,FY17
+Nebraska,Omaha,"Douglas, NE",151735,10243,FY18
+Nebraska,Omaha,"Douglas, NE",164589,10374,FY19
+Florida,Orlando,Orange,270230,23322,FY15
+Florida,Orlando,Orange,290827,23667,FY16
+Florida,Orlando,Orange,304684,24393,FY17
+Florida,Orlando,Orange,292484,24861,FY18
+Florida,Orlando,Orange,323931,24875,FY19
+California,Palo Alto,Santa Clara,296542,14538,FY15
+California,Palo Alto,Santa Clara,275741,14375,FY16
+California,Palo Alto,Santa Clara,307122,14247,FY17
+California,Palo Alto,Santa Clara,313739,13795,FY18
+California,Palo Alto,Santa Clara,331501,13547,FY19
+Maryland,Perry Point,Cecil,72160,2448,FY15
+Maryland,Perry Point,Cecil,65853,2491,FY16
+Maryland,Perry Point,Cecil,67848,2504,FY17
+Maryland,Perry Point,Cecil,64511,2510,FY18
+Maryland,Perry Point,Cecil,66505,2538,FY19
+Pennsylvania,Philadelphia,Philadelphia,315752,19581,FY15
+Pennsylvania,Philadelphia,Philadelphia,304514,19354,FY16
+Pennsylvania,Philadelphia,Philadelphia,315071,19936,FY17
+Pennsylvania,Philadelphia,Philadelphia,316025,18495,FY18
+Pennsylvania,Philadelphia,Philadelphia,335938,18114,FY19
+Arizona,Phoenix,Maricopa,665975,66175,FY15
+Arizona,Phoenix,Maricopa,702689,68558,FY16
+Arizona,Phoenix,Maricopa,790072,69639,FY17
+Arizona,Phoenix,Maricopa,786392,72447,FY18
+Arizona,Phoenix,Maricopa,863510,74017,FY19
+Pennsylvania,Pittsburgh,Allegheny,352494,21562,FY15
+Pennsylvania,Pittsburgh,Allegheny,323240,21886,FY16
+Pennsylvania,Pittsburgh,Allegheny,344701,21861,FY17
+Pennsylvania,Pittsburgh,Allegheny,333402,21720,FY18
+Pennsylvania,Pittsburgh,Allegheny,346862,21413,FY19
+Missouri,Poplar Bluff,Butler,27921,1962,FY15
+Missouri,Poplar Bluff,Butler,32510,2205,FY16
+Missouri,Poplar Bluff,Butler,36653,2206,FY17
+Missouri,Poplar Bluff,Butler,38223,2270,FY18
+Missouri,Poplar Bluff,Butler,46597,2304,FY19
+Oregon,Portland,Multnomah,194667,12552,FY15
+Oregon,Portland,Multnomah,185544,12488,FY16
+Oregon,Portland,Multnomah,205622,12227,FY17
+Oregon,Portland,Multnomah,211452,12278,FY18
+Oregon,Portland,Multnomah,228401,12024,FY19
+Arizona,Prescott,Yavapai,165296,12671,FY15
+Arizona,Prescott,Yavapai,159851,12801,FY16
+Arizona,Prescott,Yavapai,191322,12992,FY17
+Arizona,Prescott,Yavapai,177639,13132,FY18
+Arizona,Prescott,Yavapai,200681,13004,FY19
+Rhode Island,Providence,Providence,156561,10941,FY15
+Rhode Island,Providence,Providence,145662,10887,FY16
+Rhode Island,Providence,Providence,159057,10749,FY17
+Rhode Island,Providence,Providence,157187,10576,FY18
+Rhode Island,Providence,Providence,167911,10498,FY19
+Nevada,Reno,Washoe,192054,13705,FY15
+Nevada,Reno,Washoe,182397,13803,FY16
+Nevada,Reno,Washoe,202392,13848,FY17
+Nevada,Reno,Washoe,193130,13741,FY18
+Nevada,Reno,Washoe,224653,13899,FY19
+Virginia,Richmond,Richmond City,94135,4661,FY15
+Virginia,Richmond,Richmond City,98261,4809,FY16
+Virginia,Richmond,Richmond City,99831,4584,FY17
+Virginia,Richmond,Richmond City,92035,4472,FY18
+Virginia,Richmond,Richmond City,101169,4440,FY19
+Oregon,Roseburg,Douglas,107740,6975,FY15
+Oregon,Roseburg,Douglas,119607,7174,FY16
+Oregon,Roseburg,Douglas,132010,7336,FY17
+Oregon,Roseburg,Douglas,133518,7369,FY18
+Oregon,Roseburg,Douglas,142273,7248,FY19
+California,Sacramento,Sacramento,279777,22676,FY15
+California,Sacramento,Sacramento,268180,22642,FY16
+California,Sacramento,Sacramento,304100,23073,FY17
+California,Sacramento,Sacramento,302764,23252,FY18
+California,Sacramento,Sacramento,363482,23365,FY19
+Michigan,Saginaw,Saginaw,44594,4061,FY15
+Michigan,Saginaw,Saginaw,44958,4064,FY16
+Michigan,Saginaw,Saginaw,49660,4173,FY17
+Michigan,Saginaw,Saginaw,53634,4414,FY18
+Michigan,Saginaw,Saginaw,59553,4363,FY19
+Virginia,Salem,Salem City,15078,772,FY15
+Virginia,Salem,Salem City,14049,779,FY16
+Virginia,Salem,Salem City,17930,808,FY17
+Virginia,Salem,Salem City,13616,746,FY18
+Virginia,Salem,Salem City,17553,829,FY19
+North Carolina,Salisbury,Rowan,82481,4991,FY15
+North Carolina,Salisbury,Rowan,75138,5088,FY16
+North Carolina,Salisbury,Rowan,88736,5059,FY17
+North Carolina,Salisbury,Rowan,95309,5030,FY18
+North Carolina,Salisbury,Rowan,99894,5078,FY19
+Utah,Salt Lake City,Salt Lake,245994,14196,FY15
+Utah,Salt Lake City,Salt Lake,235258,14032,FY16
+Utah,Salt Lake City,Salt Lake,253656,14008,FY17
+Utah,Salt Lake City,Salt Lake,261041,13917,FY18
+Utah,Salt Lake City,Salt Lake,278609,13750,FY19
+Texas,San Antonio,Bexar,532327,51646,FY15
+Texas,San Antonio,Bexar,515422,53166,FY16
+Texas,San Antonio,Bexar,567924,55452,FY17
+Texas,San Antonio,Bexar,601199,57213,FY18
+Texas,San Antonio,Bexar,662845,60082,FY19
+California,San Diego,San Diego,703141,66912,FY15
+California,San Diego,San Diego,683134,66974,FY16
+California,San Diego,San Diego,758712,67681,FY17
+California,San Diego,San Diego,787076,69006,FY18
+California,San Diego,San Diego,833124,69464,FY19
+California,San Francisco,San Francisco,223185,7151,FY15
+California,San Francisco,San Francisco,228664,7127,FY16
+California,San Francisco,San Francisco,228558,7072,FY17
+California,San Francisco,San Francisco,230394,7013,FY18
+California,San Francisco,San Francisco,247104,6829,FY19
+Washington,Seattle,King,289662,20014,FY15
+Washington,Seattle,King,272794,20108,FY16
+Washington,Seattle,King,285067,19916,FY17
+Washington,Seattle,King,323468,20227,FY18
+Washington,Seattle,King,343384,20125,FY19
+Wyoming,Sheridan,Sheridan,50495,2049,FY15
+Wyoming,Sheridan,Sheridan,41717,1992,FY16
+Wyoming,Sheridan,Sheridan,46739,1954,FY17
+Wyoming,Sheridan,Sheridan,47068,1901,FY18
+Wyoming,Sheridan,Sheridan,45090,1870,FY19
+Louisiana,Shreveport,Caddo,88562,6688,FY15
+Louisiana,Shreveport,Caddo,80477,6587,FY16
+Louisiana,Shreveport,Caddo,84591,6428,FY17
+Louisiana,Shreveport,Caddo,87295,6416,FY18
+Louisiana,Shreveport,Caddo,93735,6499,FY19
+South Dakota,Sioux Falls,Minnehaha,69393,5070,FY15
+South Dakota,Sioux Falls,Minnehaha,61767,5066,FY16
+South Dakota,Sioux Falls,Minnehaha,68645,5182,FY17
+South Dakota,Sioux Falls,Minnehaha,72178,5379,FY18
+South Dakota,Sioux Falls,Minnehaha,76920,5640,FY19
+Washington,Spokane,Spokane,127221,13033,FY15
+Washington,Spokane,Spokane,127432,13586,FY16
+Washington,Spokane,Spokane,144851,14012,FY17
+Washington,Spokane,Spokane,158751,14387,FY18
+Washington,Spokane,Spokane,183018,14574,FY19
+Minnesota,St Cloud,Stearns,92227,5850,FY15
+Minnesota,St Cloud,Stearns,88589,5870,FY16
+Minnesota,St Cloud,Stearns,98727,5956,FY17
+Minnesota,St Cloud,Stearns,106462,6024,FY18
+Minnesota,St Cloud,Stearns,111426,6142,FY19
+Missouri,St Louis,St. Louis,177557,14335,FY15
+Missouri,St Louis,St. Louis,164746,14179,FY16
+Missouri,St Louis,St. Louis,180317,14040,FY17
+Missouri,St Louis,St. Louis,176430,14182,FY18
+Missouri,St Louis,St. Louis,196111,14187,FY19
+New York,Syracuse,Onondaga,148959,9598,FY15
+New York,Syracuse,Onondaga,133561,9535,FY16
+New York,Syracuse,Onondaga,151598,9411,FY17
+New York,Syracuse,Onondaga,148369,9365,FY18
+New York,Syracuse,Onondaga,163398,9249,FY19
+Florida,Tampa,"Hillsborough, FL",503238,33840,FY15
+Florida,Tampa,"Hillsborough, FL",476061,34359,FY16
+Florida,Tampa,"Hillsborough, FL",531310,35352,FY17
+Florida,Tampa,"Hillsborough, FL",549344,36873,FY18
+Florida,Tampa,"Hillsborough, FL",600731,38545,FY19
+Texas,Temple,Bell,223812,23275,FY15
+Texas,Temple,Bell,244722,25679,FY16
+Texas,Temple,Bell,276864,26519,FY17
+Texas,Temple,Bell,288603,27987,FY18
+Texas,Temple,Bell,305825,28363,FY19
+Maine,Togus,Kennebec,77633,5037,FY15
+Maine,Togus,Kennebec,71133,5160,FY16
+Maine,Togus,Kennebec,80295,5260,FY17
+Maine,Togus,Kennebec,85522,5287,FY18
+Maine,Togus,Kennebec,95313,5387,FY19
+Wisconsin,Tomah,Monroe,79245,2727,FY15
+Wisconsin,Tomah,Monroe,79628,2751,FY16
+Wisconsin,Tomah,Monroe,81127,2727,FY17
+Wisconsin,Tomah,Monroe,76696,2797,FY18
+Wisconsin,Tomah,Monroe,75731,2778,FY19
+Kansas,Topeka,Shawnee,95513,5937,FY15
+Kansas,Topeka,Shawnee,81975,5856,FY16
+Kansas,Topeka,Shawnee,127073,10110,FY17
+Kansas,Topeka,Shawnee,90001,5807,FY18
+Kansas,Topeka,Shawnee,93832,5739,FY19
+Arizona,Tucson,Pima,369457,30354,FY15
+Arizona,Tucson,Pima,359714,30575,FY16
+Arizona,Tucson,Pima,403671,30916,FY17
+Arizona,Tucson,Pima,409833,31323,FY18
+Arizona,Tucson,Pima,451020,31737,FY19
+Alabama,Tuscaloosa,Tuscaloosa,81652,5295,FY15
+Alabama,Tuscaloosa,Tuscaloosa,76817,5371,FY16
+Alabama,Tuscaloosa,Tuscaloosa,80132,5263,FY17
+Alabama,Tuscaloosa,Tuscaloosa,87061,5302,FY18
+Alabama,Tuscaloosa,Tuscaloosa,90885,5265,FY19
+Washington,Walla Walla,Walla Walla,23564,1836,FY15
+Washington,Walla Walla,Walla Walla,23431,1876,FY16
+Washington,Walla Walla,Walla Walla,24997,1916,FY17
+Washington,Walla Walla,Walla Walla,27118,1998,FY18
+Washington,Walla Walla,Walla Walla,30177,2017,FY19
+District of Columbia,Washington,District of Cloumbia,239825,8580,FY15
+District of Columbia,Washington,District of Cloumbia,231257,8595,FY16
+District of Columbia,Washington,District of Cloumbia,193324,8261,FY17
+District of Columbia,Washington,District of Cloumbia,311979,8081,FY18
+District of Columbia,Washington,District of Cloumbia,246194,7885,FY19
+Florida,West Palm,Palm Beach,341829,31913,FY15
+Florida,West Palm,Palm Beach,319020,30860,FY16
+Florida,West Palm,Palm Beach,338115,30035,FY17
+Florida,West Palm,Palm Beach,343816,29350,FY18
+Florida,West Palm,Palm Beach,374711,28771,FY19
+Oregon,White City,Jackson,115209,8579,FY15
+Oregon,White City,Jackson,90541,8290,FY16
+Oregon,White City,Jackson,103332,8213,FY17
+Oregon,White City,Jackson,100859,8159,FY18
+Oregon,White City,Jackson,114493,8148,FY19
+Vermont,White River,Windsor,33020,2008,FY15
+Vermont,White River,Windsor,32288,2041,FY16
+Vermont,White River,Windsor,34075,2006,FY17
+Vermont,White River,Windsor,33631,2000,FY18
+Vermont,White River,Windsor,37982,1968,FY19
+Kansas,Wichita,Sedgwick,117578,9868,FY15
+Kansas,Wichita,Sedgwick,117688,10025,FY16
+Kansas,Wichita,Sedgwick,91726,5812,FY17
+Kansas,Wichita,Sedgwick,129846,10278,FY18
+Kansas,Wichita,Sedgwick,154886,10806,FY19
+Pennsylvania,Wilkes Barre,Luzerne,104097,7584,FY15
+Pennsylvania,Wilkes Barre,Luzerne,95884,7508,FY16
+Pennsylvania,Wilkes Barre,Luzerne,108946,7437,FY17
+Pennsylvania,Wilkes Barre,Luzerne,103095,7376,FY18
+Pennsylvania,Wilkes Barre,Luzerne,110697,7270,FY19
+Delaware,Wilmington,New Castle,110984,7612,FY15
+Delaware,Wilmington,New Castle,104514,7866,FY16
+Delaware,Wilmington,New Castle,124391,7898,FY17
+Delaware,Wilmington,New Castle,120781,7986,FY18
+Deleware,Wilmington,New Castle,125279,8147,FY19

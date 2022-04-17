@@ -1,0 +1,22 @@
+select quality.state_name,
+	quality.city,
+	quality.county_name,
+	quality.yr_q,
+	quality.bptw,
+	quality.ojs,
+	quality.swo,
+	quality.rmoaagptw,
+	quality.ipm,
+	quality.opm,
+	quality.npcacw30dfpd,
+	quality.nscacw30dfpd,
+	quality.nmhacw30dfpd,
+	quality.eff,
+	expenditures.state_name,
+	expenditures.medical_expenditures,
+	expenditures.unique_patients
+		From expenditures
+		inner join quality 
+		on expenditures.state_name=quality.state_name;
+		
+		
