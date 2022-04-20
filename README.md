@@ -106,6 +106,10 @@ Trained using 800 epochs
 
 ![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/XGB.jpg)
 
+# Overall Dashboard
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/VA_Efficiency_Story_Final.png)
+
 
 # To summarize what we did :
 - We load and processed the dataset
