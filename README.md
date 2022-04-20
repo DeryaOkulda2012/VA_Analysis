@@ -32,6 +32,16 @@ We have data from the following years and we will use it as basis for our model:
 - 2017
 - 2016
 
+# Data Preparation and ETL
+SAIL data extracted into Quality.csv using Jupyter Notebook and GDX Data edited and modified from existing CSV files.
+![image](https://github.com/Williamj83/VA_Analysis/blob/main/Images/Screenshot%202022-04-13%20180519.jpg)
+
+### ER Diagram
+Joined Quality and Expenditures on Year, City, and State Name to get Final Dataset for model
+![image](Images/Final_ERD.png)
+![image](Images/final_join.png)
+
+
 # Machine Learning Model 
 
 Each fiscal year the Department of Veterans Affairs’ Office of Policy and Planning publishes the annual Geographic Distribution of VA Expenditures (GDX) Report for the public and all stakeholders.  
