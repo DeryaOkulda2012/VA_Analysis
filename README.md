@@ -106,6 +106,18 @@ Trained using 800 epochs
 
 ![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/XGB.jpg)
 
+# Predicted vs. Actual
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/VA_Eff_Pred_vs_Actual_Final.png)
+
+# Overall Dashboard
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/VA_Efficiency_Story_Final.png)
+
+# Link to Dashboard
+
+[Dashboard: VA Quality Final with Predictions](https://public.tableau.com/app/profile/derya.m.ferendeci/viz/VA_Quality_Final_with_Predictions/VAEfficiencyStory?publish=yes)
+
 
 # To summarize what we did :
 - We load and processed the dataset
