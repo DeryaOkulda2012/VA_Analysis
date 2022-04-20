@@ -106,6 +106,10 @@ Trained using 800 epochs
 
 ![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/XGB.jpg)
 
+# Predicted vs. Actual
+
+![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/VA_Eff_Pred_vs_Actual_Final.png)
+
 # Overall Dashboard
 
 ![VA_Analysis/Images](https://github.com/DeryaOkulda2012/VA_Analysis/blob/main/Images/VA_Efficiency_Story_Final.png)
