@@ -116,7 +116,7 @@ Trained using 800 epochs
 
 # Link to Dashboard
 
-![https://public.tableau.com/app/profile/derya.m.ferendeci/viz/VA_Quality_Final_with_Predictions/VAEfficiencyStory?publish=yes](https://public.tableau.com/app/profile/derya.m.ferendeci/viz/VA_Quality_Final_with_Predictions/VAEfficiencyStory?publish=yes)
+[Dashboard: VA Quality Final with Predictions](https://public.tableau.com/app/profile/derya.m.ferendeci/viz/VA_Quality_Final_with_Predictions/VAEfficiencyStory?publish=yes)
 
 
 # To summarize what we did :
